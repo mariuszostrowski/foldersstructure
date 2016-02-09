@@ -7,8 +7,11 @@ Unzip and put Create Folders Structure.workflow into ~/Library/Services
 ### Usage
 1. Create folder for project.
 2. Right click on folder icon and select "Create Folders Structure" from "Services" menu...
+
 ![](https://raw.githubusercontent.com/mariuszostrowski/foldersstructure/master/howto/cf01.jpg)
+
 4. ... open folder.
+
 ![](https://raw.githubusercontent.com/mariuszostrowski/foldersstructure/master/howto/cf02.jpg)
 
 ### Author
