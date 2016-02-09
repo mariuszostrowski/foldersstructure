@@ -10,7 +10,7 @@ Unzip and put Create Folders Structure.workflow into ~/Library/Services
 
 ![](https://raw.githubusercontent.com/mariuszostrowski/foldersstructure/master/howto/cf01.jpg)
 
-4. ... open folder.
+3. ... open folder.
 
 ![](https://raw.githubusercontent.com/mariuszostrowski/foldersstructure/master/howto/cf02.jpg)
 
